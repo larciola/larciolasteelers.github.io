@@ -76,7 +76,8 @@
  <h1>The Official Steelers Roster Review Website</h1>
      
  <button onclick="sayHello()">Click Me</button>
-      <h1>Depth Chart</h1>
+     
+      <h2>Depth Chart</h2>
       
    <h2>Offense</h2>
  <table>
