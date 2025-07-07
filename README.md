@@ -74,16 +74,11 @@
 
 
  <h1>The Official Steelers Roster Review Website</h1>
-     margin-top: 40px;
-     margin-bottom: 10px; 
+     
       <p>Depth Chart</p>
  <button onclick="sayHello()">Click Me</button>
 
-
- p {
-     color: #101820;
-     font-weight: bold;
-   }<h2>Offense</h2>
+   <h2>Offense</h2>
  <table>
    <thead>
      <tr>
