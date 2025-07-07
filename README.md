@@ -54,8 +54,8 @@
 
 
    button {
-     background-color: #101820; /* Steelers black */
-     color: #FFB612; /* Steelers gold */
+     background-color: #FFB612; /* Steelers gold */
+     color: #101820; /* Steelers black */
      padding: 10px 20px;
      border: none;
      border-radius: 5px;
