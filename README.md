@@ -14,7 +14,7 @@
 
    h1 {
      color: #FFB612; /* Steelers gold */
-     font-size: 2em;
+     font-size: 3em;
    }
 
 
@@ -22,6 +22,7 @@
      color: #FFB612;
      margin-top: 40px;
      margin-bottom: 10px;
+     font-size: 2em;
    }
 
 
@@ -76,7 +77,7 @@
  <h1>The Official Steelers Roster Review Website</h1>
      
  <button onclick="sayHello()">Click Me</button>
-     
+     <p>
       <h2>Depth Chart</h2>
       
    <h2>Offense</h2>
