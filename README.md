@@ -76,16 +76,14 @@
  <h1>The Official Steelers Roster Review Website</h1>
      margin-top: 40px;
      margin-bottom: 10px; 
-      body {
-     font-family: Arial, sans-serif;
-     padding: 30px;
-     background-color: #ffffff; /* white */
-     color: #101820; /* Steelers black */
-   }<p>Depth Chart</p>
+      <p>Depth Chart</p>
  <button onclick="sayHello()">Click Me</button>
 
 
- <h2>Offense</h2>
+ p {
+     color: #101820;
+     font-weight: bold;
+   }<h2>Offense</h2>
  <table>
    <thead>
      <tr>
