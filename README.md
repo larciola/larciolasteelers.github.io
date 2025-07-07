@@ -19,7 +19,7 @@
 
 
    h2 {
-     color: #101820;
+     color: #FFB612;
      margin-top: 40px;
      margin-bottom: 10px;
    }
