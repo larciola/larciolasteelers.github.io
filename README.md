@@ -1,5 +1,4 @@
 # Go Steelers!
-<!DOCTYPE html>
 <html lang="en">
 <head>
  <meta charset="UTF-8" />
@@ -76,7 +75,10 @@
 
 
  <h1>The Official Steelers Roster Review Website</h1>
- <p>Depth Chart</p>
+  h2 {
+     color: #101820;
+     margin-top: 40px;
+     margin-bottom: 10px;<p>Depth Chart</p>
  <button onclick="sayHello()">Click Me</button>
 
 
