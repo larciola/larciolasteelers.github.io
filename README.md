@@ -145,7 +145,7 @@
    </tbody>
  </table>
 <h2>Substack Articles</h2>
-<h1>https://substack.com/inbox/post/167675707?r=4sr1re&utm_medium=ios&triedRedirect=true<h1>
+[Lucas Arciola][https://substack.com/inbox/post/167675707?r=4sr1re&utm_medium=ios&triedRedirect=true]
 
  <script>
    function sayHello() {
