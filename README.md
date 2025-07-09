@@ -145,7 +145,7 @@
    </tbody>
  </table>
 <h2>Substack Articles</h2>
-<h2>[Is It Time to Have Chris Boswell Hall of Fame Talks?](https://substack.com/home/post/p-167675707)</h2>
+<h2><li><a href="https://substack.com/home/post/p-167675707">Is It Time to Have Chris Boswell Hall of Fame Talks?</a></li></h2>
 
  <script>
    function sayHello() {
