@@ -145,7 +145,7 @@
    </tbody>
  </table>
 <h2>Substack Articles</h2>
-[Lucas Arciola][https://substack.com/inbox/post/167675707?r=4sr1re&utm_medium=ios&triedRedirect=true]
+<h2>[Is It Time to Have Chris Boswell Hall of Fame Talks?](https://substack.com/home/post/p-167675707)</h2>
 
  <script>
    function sayHello() {
